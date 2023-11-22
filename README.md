@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello there, I'm Ithalo Caldas, student at 42 Porto.
 
-<!--
-**i4b2c/i4b2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ithalo-barbosa-caldas-a65218246/)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/traiguuhh/)
 
-Here are some ideas to get you started:
+![i4b2c GitHub stats](https://github-readme-stats.vercel.app/api?username=i4b2c&show_icons=true&theme=radical)
+![i4b2c stats](https://github-readme-stats.vercel.app/api/top-langs/?username=i4b2c&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Technologies
+
+![C_Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Cpp_Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python_language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
