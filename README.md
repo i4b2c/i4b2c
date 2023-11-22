@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ithalo-barbosa-caldas-a65218246/)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/traiguuhh/)
 
-![pixels-neon](https://github.com/i4b2c/i4b2c/assets/117470349/ab7983b7-a705-4443-bf61-9dc7bee321cf)
+![mario i4b2c](https://github.com/i4b2c/i4b2c/assets/117470349/f8ef72ea-fc7c-4227-abed-bf987619fb42)
 
 ### Stats
 
