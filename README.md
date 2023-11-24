@@ -1,4 +1,4 @@
-##  **Hello there, I'm Ithalo Caldas, student at 42 Porto.**
+##  **Hello there, I'm Ithalo Caldas.**
 
 * **Currently studying C/C++ on 42 Porto**
 * **Showing all my progress on 42 projects, available in the [repositories](https://github.com/i4b2c?tab=repositories)**
