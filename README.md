@@ -11,32 +11,44 @@ I'm a passionate programmer with a strong focus on **C**, **C++**, and **Linux s
 
 ### 📂 Featured Projects:
 
-- [**Dynamic Memory Allocator**](https://github.com/i4b2c/malloc_clone):  
-  A custom implementation of `malloc` and `free` functions, prioritizing memory efficiency and performance.  
-  ![C_Language](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+- [**Real-Time Chat Application**](https://github.com/i4b2c/Real-Time-Chat-Application):  
+  A real-time chat application built using **Python** and **WebSocket technology**, designed to handle multiple clients with seamless communication.  
+  ![Python_language](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- [**Simple Shell**](https://github.com/i4b2c/simple_shell):  
-  A Unix shell implementation in C, supporting pipes and redirection.  
-
-- [**Libft**](https://github.com/i4b2c/libft):  
-  A foundational custom library replicating many standard C functions, built for low-level programming tasks.
+- [**CreateFileBase**](https://github.com/i4b2c/createFileBase):  
+  A utility tool written in **Shell Script** to manage and create structured file bases efficiently.  
+  ![Shell_Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
 ### 🛠️ Tools & Technologies:
 
 - **Languages:**  
-  ![C_Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-  ![Cpp_Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![Python_language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **Development Tools:**  
-  - Git  
-  - GDB  
-  - Valgrind  
+- **Frameworks and Libraries:**  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+  ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)  
+  ![Ursina](https://img.shields.io/badge/Ursina-000000?style=for-the-badge&logo=python&logoColor=white)  
+  ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
+
+- **Databases:**  
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+- **Tools & Development:**  
+  ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)  
+  ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 - **Operating Systems:**  
-  - Linux (Ubuntu, Arch)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  
 
 ---
 
