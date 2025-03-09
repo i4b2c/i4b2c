@@ -1,6 +1,6 @@
 ## **Hello there, I'm Ithalo Caldas!** 👋
 
-I'm a passionate programmer with a strong focus on **C**, **C++**, and **Linux systems**. I love working on challenging projects, especially those that push the boundaries of my skills, much like the ones found in the 42 curriculum.
+I'm a passionate programmer with a strong focus on **C**, **C++**, and **Python**. I love working on challenging projects, especially those that push the boundaries of my skills, much like the ones found in the 42 curriculum.
 
 ### 🚀 About Me:
 - 💻 **Self-driven learner:** Constantly improving my skills in **system programming**, **algorithms**, and **performance optimization**.
