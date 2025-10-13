@@ -20,26 +20,6 @@ Always evolving in <b>C, C++, Python, Backend, Web, and more!</b>
 
 ---
 
-## 🚀 About Me
-
-- 💻 **Self-driven learner:** Focused on **system programming**, **algorithms**, **backend**, and **desktop/web apps**.
-- 🧠 **Currently exploring:** Advanced C++, Django REST, and Electron-based UI tools.
-- 🌱 Always improving and building real-world, efficient, and scalable software.
-
----
-
-## 📂 Featured Projects
-
-### 🔹 [Real-Time Chat Application](https://github.com/i4b2c/Real-Time-Chat-Application)  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>  
-Multi-client chat system using Python & WebSockets with real-time messaging.
-
-### 🔹 [CreateFileBase](https://github.com/i4b2c/createFileBase)  
-<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>  
-A handy shell tool for generating file bases quickly in project setups.
-
----
-
 <table>
   <tr>
     <td align="center" width="50%">
